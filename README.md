@@ -47,10 +47,10 @@ cd blago_test
 # Создание окружения
 python -m venv .venv
 
-# Активация для macOS/Linux (твой случай)
+# Активация для macOS/Linux 
 source .venv/bin/activate
 
-# Активация для Windows (на всякий случай)
+# Активация для Windows 
 .venv\Scripts\activate
 ```
 
