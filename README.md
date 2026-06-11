@@ -67,11 +67,11 @@ pip install -r requirements.txt
   ```bash
   pytest tests/api/
   ```
-  * Запустить только тесты для UI
+* Запустить только тесты для UI
   ```bash
   pytest tests/ui/
   ```
-  * Запустить только интеграционные сценарии
+* Запустить только интеграционные сценарии
   ```bash
   pytest tests/integtarion/
   ```
