@@ -58,6 +58,7 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
 ### 4. Запуск тестов
 * Запустить все доступные тесты
   ```bash
@@ -75,8 +76,8 @@ pip install -r requirements.txt
   ```bash
   pytest tests/integtarion/
   ```
-
-  ### 5. Генерация отчетов Allure
+  
+### 5. Генерация отчетов Allure
   ```bash
   allure serve allure-results
   ```
