@@ -1,5 +1,3 @@
-'''allure serve allure-results
-source .venv/bin/activate'''
 BASE_URL = "https://blago.ru"
 
 TEST_DONATION_AMOUNT = "100"
